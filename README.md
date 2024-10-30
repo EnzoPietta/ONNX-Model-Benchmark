@@ -14,7 +14,7 @@
 #### Notes:
 
 - **Dataset:**  
-  The dataset used in this project can be downloaded from the following link:  
+  The dataset used in these scritps can be downloaded from the following link:  
   [Download Dataset](https://drive.google.com/drive/folders/1QN67qTdgyFAbELnOuU3UREMoXhyl7OHg?usp=sharing)
 
 - **GPU Inference:**  
